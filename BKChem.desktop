@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=BKChem
+Exec=env WINEPREFIX="/tmp/guest-fag63n/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\BKChem\\\\bkchem\\\\bkchem.exe 
+Type=Application
+StartupNotify=true
+Path=/tmp/guest-fag63n/.wine/dosdevices/c:/Program Files (x86)/BKChem/bkchem
+Icon=8142_icon.0
